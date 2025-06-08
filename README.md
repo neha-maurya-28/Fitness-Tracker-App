@@ -19,11 +19,11 @@ A simple Flutter mobile application that allows users to log workouts, view work
      - Duration
      - Date
 
-3. **Summary (Optional)**
+3. **Summary**
    - View total workouts per category (e.g., Cardio: 3, Strength: 2)
    - Displays a simple bar chart using `fl_chart`.
 
-4. **BMI Calculator (Optional / Bonus)**
+4. **BMI Calculator**
    - Input: Weight (kg) and Height (cm)
    - Output: BMI value with health status (e.g., Normal, Overweight)
 
@@ -38,7 +38,16 @@ A simple Flutter mobile application that allows users to log workouts, view work
 
 ## 📸 Screenshots
 
-> _(Include screenshots of your app’s main pages here for demonstration)_
+> ![IMG-20250609-WA0001](https://github.com/user-attachments/assets/19439bb7-7dac-4fb3-ab21-dc40cbf32974)
+> ![IMG-20250609-WA0002](https://github.com/user-attachments/assets/b000bb46-6fb3-4c40-921c-7de85fe65c80)
+> ![IMG-20250609-WA0003](https://github.com/user-attachments/assets/0f7fdaab-b5c5-4462-b140-fe4eadb00c14)
+> ![IMG-20250609-WA0004](https://github.com/user-attachments/assets/b6ee5286-ed57-4539-8031-a05389a18549)
+> ![IMG-20250609-WA0005](https://github.com/user-attachments/assets/7290d221-1656-411b-8585-5f3b10ac523a)
+> ![IMG-20250609-WA0006](https://github.com/user-attachments/assets/a96f1a5b-ee50-4c21-b30a-c7a50218a12c)
+> ![IMG-20250609-WA0007](https://github.com/user-attachments/assets/762ab182-01a3-47f4-82d7-0c96155abdc7)
+> ![IMG-20250609-WA0008](https://github.com/user-attachments/assets/4f1f2499-1237-425f-8585-9288d79fb92c)
+> ![IMG-20250609-WA0009](https://github.com/user-attachments/assets/14fdf15c-2e21-439c-8702-9bfadaab70a2)
+> ![IMG-20250609-WA0010](https://github.com/user-attachments/assets/d699475b-52d1-4407-851a-6d0bb903aaaf)
 
 ---
 
@@ -47,7 +56,7 @@ A simple Flutter mobile application that allows users to log workouts, view work
 | Component          | Technology          |
 |-------------------|---------------------|
 | Frontend UI       | Flutter             |
-| State Management  | `setState` (basic) or Provider (optional) |
+| State Management  | `setState`  |
 | Chart Visualization | `fl_chart` package |
 | Local Storage  | `shared_preferences`  |
 
