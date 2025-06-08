@@ -49,7 +49,7 @@ A simple Flutter mobile application that allows users to log workouts, view work
 | Frontend UI       | Flutter             |
 | State Management  | `setState` (basic) or Provider (optional) |
 | Chart Visualization | `fl_chart` package |
-| Local Storage (Optional) | `shared_preferences` (not implemented here) |
+| Local Storage  | `shared_preferences`  |
 
 ---
 
