@@ -38,16 +38,21 @@ A simple Flutter mobile application that allows users to log workouts, view work
 
 ## 📸 Screenshots
 
-> ![IMG-20250609-WA0001](https://github.com/user-attachments/assets/19439bb7-7dac-4fb3-ab21-dc40cbf32974)
-> ![IMG-20250609-WA0002](https://github.com/user-attachments/assets/b000bb46-6fb3-4c40-921c-7de85fe65c80)
-> ![IMG-20250609-WA0003](https://github.com/user-attachments/assets/0f7fdaab-b5c5-4462-b140-fe4eadb00c14)
-> ![IMG-20250609-WA0004](https://github.com/user-attachments/assets/b6ee5286-ed57-4539-8031-a05389a18549)
-> ![IMG-20250609-WA0005](https://github.com/user-attachments/assets/7290d221-1656-411b-8585-5f3b10ac523a)
-> ![IMG-20250609-WA0006](https://github.com/user-attachments/assets/a96f1a5b-ee50-4c21-b30a-c7a50218a12c)
-> ![IMG-20250609-WA0007](https://github.com/user-attachments/assets/762ab182-01a3-47f4-82d7-0c96155abdc7)
-> ![IMG-20250609-WA0008](https://github.com/user-attachments/assets/4f1f2499-1237-425f-8585-9288d79fb92c)
-> ![IMG-20250609-WA0009](https://github.com/user-attachments/assets/14fdf15c-2e21-439c-8702-9bfadaab70a2)
-> ![IMG-20250609-WA0010](https://github.com/user-attachments/assets/d699475b-52d1-4407-851a-6d0bb903aaaf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d90e8f1-161a-44fa-b4ed-7a9e0d7682b7" width="300" />
+  <img src="https://github.com/user-attachments/assets/b39b64ee-24eb-4d14-b658-074e220235f9" width="300" />
+  <img src="https://github.com/user-attachments/assets/090a30b1-5e07-4369-ba12-37bc07ce9ecd" width="300" />
+  <img src="https://github.com/user-attachments/assets/dde7dbb2-b88b-4267-a0fb-51647d10e9bf" width="300" />
+  <img src="https://github.com/user-attachments/assets/a65d254a-25f3-402f-9335-382c7a760a79" width="300" />
+  <img src="https://github.com/user-attachments/assets/eaea487a-ea9c-4dcc-b085-56abebc55674" width="300" />
+  <img src="https://github.com/user-attachments/assets/8f12e307-030c-4e14-b4ae-f9d726927768" width="300" />
+  <img src="https://github.com/user-attachments/assets/336899d1-3531-475b-9eb7-6c79ad961ab5" width="300" />
+  <img src="https://github.com/user-attachments/assets/44a8eff9-1317-491c-8154-9b24fb8309b0" width="300" />
+  <img src="https://github.com/user-attachments/assets/26769993-27b3-4c06-8ad3-445dfed2aacf" width="300" />
+  <!-- Add more if needed -->
+</p>
+
+
 
 ---
 
