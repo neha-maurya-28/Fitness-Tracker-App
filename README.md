@@ -93,5 +93,5 @@ A simple Flutter mobile application that allows users to log workouts, view work
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/fitness_tracker_app.git
+git clone https://github.com/neha-maurya-28/Fitness-Tracker-App.git
 cd fitness_tracker_app
